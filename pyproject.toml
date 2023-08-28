@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lagrangian2eom"
+version = "0.0.1"
+dependencies = ["sympy"]
+description = "A tiny package for symbolically deriving a system's equations of motion"
+authors = [
+	{ name ="Juraj Lieskovský", email = "lieskovsky.juraj@gmail.com" }
+]
+
+[project.urls]
+"Homepage" = "https://github.com/CVUT-FS-12110/lagrangian2eom"
