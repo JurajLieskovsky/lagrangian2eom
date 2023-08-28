@@ -16,4 +16,13 @@ $$
 \end{aligned}
 $$
 
+## Installation
 
+lagrangian2eom can be installed using pip directly from github
+```
+pip install lagrangian2eom@git+https://github.com/CVUT-FS-12110/lagrangian2eom
+```
+or by first cloning the repository and then providing the path
+```
+pip install <path to lagrangian2eom>
+```
