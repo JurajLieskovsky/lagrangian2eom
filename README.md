@@ -29,3 +29,4 @@ pip install <path to lagrangian2eom>
 
 ## Examples
 [Cart-Pole](https://github.com/CVUT-FS-12110/CartPoleEoM)
+[Acrobot](https://github.com/CVUT-FS-12110/AcrobotEoM)
