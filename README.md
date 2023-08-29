@@ -26,3 +26,6 @@ or by first cloning the repository and then providing the path
 ```
 pip install <path to lagrangian2eom>
 ```
+
+## Examples
+[Cart-Pole](https://github.com/CVUT-FS-12110/CartPoleEoM)
