@@ -12,7 +12,7 @@ $$
 \mathbf{M} &= \frac{\partial^2 T}{\partial \mathbf{\dot{q}}^2} \\
 \mathbf{c} &= \frac{\partial^2 T}{\partial \mathbf{\dot{q}} \partial \mathbf{q}} \mathbf{\dot{q}} - \frac{\partial T}{\partial \mathbf{q}} \\
 \mathbf{\tau}_p &= - \frac{\partial V}{\partial \mathbf{q}} \\
-\mathbf{W}_j &= \frac{\partial \mathbf{r}_j}{\partial \mathbf{q}}
+\mathbf{W}_j &= \left(\frac{\partial \mathbf{r}_j}{\partial \mathbf{q}}\right)^\top
 \end{aligned}
 $$
 
