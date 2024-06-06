@@ -20,7 +20,7 @@ $$
 
 lagrangian2eom can be installed using pip directly from github
 ```
-pip install lagrangian2eom@git+https://github.com/CVUT-FS-12110/lagrangian2eom
+pip install lagrangian2eom@git+https://github.com/lieskjur/lagrangian2eom
 ```
 or by first cloning the repository and then providing the path
 ```
@@ -28,5 +28,5 @@ pip install <path to lagrangian2eom>
 ```
 
 ## Examples
-- [Cart-Pole](https://github.com/CVUT-FS-12110/CartPoleEoM)
-- [Acrobot](https://github.com/CVUT-FS-12110/AcrobotEoM)
+- [Cart-Pole](https://github.com/lieskjur/CartPoleEoM)
+- [Acrobot](https://github.com/lieskjur/AcrobotEoM)
