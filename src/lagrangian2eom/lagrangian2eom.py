@@ -75,4 +75,4 @@ def wrenchMatrix(r, q):
     W: sympy matrix
         wrench matrix
     """
-    return r.jacobian(q)
+    return r.jacobian(q).T
