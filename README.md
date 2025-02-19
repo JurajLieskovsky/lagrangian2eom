@@ -28,5 +28,6 @@ pip install <path to lagrangian2eom>
 ```
 
 ## Examples
-- [Cart-Pole](https://github.com/lieskjur/CartPoleEoM)
-- [Acrobot](https://github.com/lieskjur/AcrobotEoM)
+- [Cart-Pole](https://github.com/JurajLieskovsky//CartPoleEoM)
+- [Acrobot](https://github.com/JurajLieskovsky//AcrobotEoM)
+- [Bi-Rotor](https://github.com/JurajLieskovsky//BiRotorEoM)
