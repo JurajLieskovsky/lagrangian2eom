@@ -1,7 +1,7 @@
 # Lagrangian to Equations of Motion
 
 A tiny package for symbolically deriving a system's equations of motion in the form
-$$\mathbf{M}(\mathbf{q})\mathbf{\ddot{q}} + \mathbf{c}(\mathbf{q},\mathbf{\dot{q}}) - \mathbf{\tau}_p(\mathbf{q}) = \mathbf{\tau} + \sum_j \mathbf{W}_j(\mathbf{r}_j,\mathbf{q}) \mathbf{F}_j$$
+$$\mathbf{M}(\mathbf{q})\mathbf{\ddot{q}} + \mathbf{c}(\mathbf{q},\mathbf{\dot{q}}) - \mathbf{\tau}_p(\mathbf{q}) = \mathbf{\tau} + \sum_j \mathbf{W}_j(\mathbf{q}) \mathbf{F}_j$$
 for a vector of generalized coordinates $\mathbf{q}$ from the system's kinetic energy $T(\mathbf{q},\mathbf{\dot{q}})$ and potential energy $V(\mathbf{q})$, that together form the Lagrangian $L = T-V$.
 
 Additionally, given $\mathbf{r}_j(\mathbf{q})$, i.e. vectors to points where external forces $\mathbf{F}_j$ are applied to the system, wrench matrices can also be derived.
